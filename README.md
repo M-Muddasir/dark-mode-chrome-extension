@@ -1,3 +1,9 @@
+## Demo
+
+
+https://github.com/user-attachments/assets/90387656-175c-47e6-97f2-157abd85a107
+
+
 # Simple Dark Mode Chrome Extension
 
 A lightweight Chrome extension that applies dark mode to any website.
@@ -42,3 +48,5 @@ You can customize the dark mode styles by modifying the CSS in `content.js`.
 - The extension requires "storage" and "activeTab" permissions to function properly
 - Dark mode is applied per-site, not globally
 - Your preferences are saved and will persist even after browser restarts
+
+
